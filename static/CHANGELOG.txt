@@ -1,0 +1,9 @@
+2021:
+  March: 
+    10: added changelog, started project
+    11: added Random spawnpoints, fixed glitches
+    12: removed random spawns, added scrolling!
+    13: added random spawns again!
+    14: tried to add bullets
+    15: added advanced scrolling
+    16: added fps and ping count
